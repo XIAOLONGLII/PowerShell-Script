@@ -1,0 +1,1 @@
+﻿copy-Item D:\Scripts\ D:\test -Confirm
